@@ -1,0 +1,11 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+  <!-- Coin base -->
+  <circle cx="8" cy="8" r="7" fill="#f1c40f" stroke="#f39c12" stroke-width="1" />
+  
+  <!-- Inner details -->
+  <circle cx="8" cy="8" r="5" fill="#f39c12" />
+  <circle cx="8" cy="8" r="3" fill="#f1c40f" />
+  
+  <!-- Highlight -->
+  <circle cx="6" cy="6" r="1.5" fill="#fdeaa8" />
+</svg>

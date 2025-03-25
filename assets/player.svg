@@ -1,0 +1,17 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Body -->
+  <rect x="8" y="6" width="16" height="20" rx="4" fill="#3498db" />
+  <!-- Head -->
+  <circle cx="16" cy="6" r="5" fill="#f39c12" />
+  <!-- Eyes -->
+  <circle cx="14" cy="5" r="1" fill="#000" />
+  <circle cx="18" cy="5" r="1" fill="#000" />
+  <!-- Mouth -->
+  <path d="M14,8 Q16,10 18,8" stroke="#000" fill="transparent" stroke-width="0.5" />
+  <!-- Arms -->
+  <rect x="4" y="10" width="4" height="10" rx="2" fill="#3498db" />
+  <rect x="24" y="10" width="4" height="10" rx="2" fill="#3498db" />
+  <!-- Legs -->
+  <rect x="10" y="26" width="4" height="6" rx="1" fill="#2980b9" />
+  <rect x="18" y="26" width="4" height="6" rx="1" fill="#2980b9" />
+</svg>

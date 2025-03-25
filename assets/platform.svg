@@ -1,0 +1,16 @@
+<svg width="200" height="40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main platform -->
+  <rect x="0" y="0" width="200" height="40" fill="#8e44ad" rx="4" />
+  
+  <!-- Top surface details -->
+  <rect x="0" y="0" width="200" height="10" fill="#9b59b6" rx="4" />
+  
+  <!-- Platform details -->
+  <rect x="20" y="15" width="30" height="5" fill="#7d3c98" rx="2" />
+  <rect x="70" y="15" width="30" height="5" fill="#7d3c98" rx="2" />
+  <rect x="120" y="15" width="30" height="5" fill="#7d3c98" rx="2" />
+  <rect x="170" y="15" width="20" height="5" fill="#7d3c98" rx="2" />
+  
+  <!-- Bottom edge shadow -->
+  <rect x="0" y="35" width="200" height="5" fill="#6c3483" rx="2" />
+</svg>
